@@ -12,7 +12,7 @@ export const WORDS = [
   'satyr',
   'devil',
   'godly',
-  'hurts,
+  'hurts',
   'earth',
   'cheer',
   'funny',
